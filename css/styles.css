@@ -879,7 +879,6 @@ color:rgba(117, 117, 117, 0.5);
 
 .accent{
  color:var(--accent-color);
- display: inline-block;
  margin-left:5px;
 }
 
